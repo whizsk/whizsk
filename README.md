@@ -1,8 +1,4 @@
-- dogshit robloxian scripter
-- commissions are open
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg
 
 # Past work experience 🤓
 - Worked for Quality-Studio up until ~Q3 2024 https://www.roblox.com/communities/16248263/Quality-Studio
