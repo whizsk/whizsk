@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Sleepybios+😁;Behold+my+dev+portfolio!+💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Hello!;你好!;Hola!;Bonjour!;Hallo!;Ciao!;こんにちは!;안녕하세요!;Здравствуйте!;Olá!;مرحبا!;हैलो!;γειά!;שלום!;สวัสดี!;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!;హలో!;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!;வணக்கம்!;ಹಲೋ!;नमस्कार!;سلام!;ဟယ်လို!;ሰላም!;سلام!;హలో!;ഹലോ!;হ্যালো!;வணக்கம்!" alt="Typing SVG">
 </p>
 
 
