@@ -37,6 +37,6 @@ Intel Iris Xe 80EUs
 
 ## let's talk!
 
-💬 Discord: `pcwhizkid`  
+💬 Discord: `pcwhizzkid`  
 
 </div>
