@@ -5,10 +5,6 @@
 
 <div align="center">
 
-## about Me
-
-no
-
 ## languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48"/>
@@ -16,11 +12,6 @@ no
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="48" height="48"/>
-
-## learning
-
-Basic Reverse Engineering   
-Assembly, C++ 
 
 ## computer specifications
 12th Generation Intel Core i5-1235U   
