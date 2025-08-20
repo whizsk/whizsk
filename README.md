@@ -13,21 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="48" height="48"/>
 
-## computer specifications
-12th Generation Intel Core i5-1235U   
-Windows 11 Home 64-Bit   
-512GB NVME M.2 SSD   
-Intel Iris Xe 80EUs   
-24GB DDR4 RAM   
-
 ## github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sleepybios&show_icons=true&theme=radical" alt="Sleepybios' GitHub stats">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepybios&layout=compact&theme=radical" alt="Top Languages"> 
-
-## let's talk!
-
-💬 Discord: `pcwhizzkid`  
-
-</div>
