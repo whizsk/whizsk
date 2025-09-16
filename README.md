@@ -1,6 +1,10 @@
 <div align="center">
   hi! im whiz, an autodidactic programmer.
+  <img src="https://raw.githubusercontent.com/whizsk/whizsk/main/Jf93yK3.gif" 
+       alt="x3" style="height:3em; vertical-align: middle;" />
 </div>
+
+
 
 <br><br><br>
 
